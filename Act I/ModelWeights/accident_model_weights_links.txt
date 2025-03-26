@@ -1,0 +1,19 @@
+Accident Detection YOLOv8 Finetuned Weights Links:
+
+1. Our Default yolov8m finetuned: [Pytorch weights] [Private]
+   Link: https://www.kaggle.com/models/magisty3/yolov8
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+
+2. Our Default yolov8m finetuned for real-time detection: [Onnx weights] [Private]
+   Link: https://www.kaggle.com/models/magisty3/yolov8-realtime
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+
+- Free to use for **non-commercial research and educational purposes**.
+- Redistribution, modification, or commercial use is **not allowed** without prior permission.
+
