@@ -1,0 +1,47 @@
+Injury Phase Model Weights
+
+1. Our Default yolov8m finetuned for Injury detection: [Pytorch weights] [Private]
+   Link: https://www.kaggle.com/models/nardengerges/injured-not-injured-detection
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+
+2. Our Gender Classification: [Keras weights] [Private]
+   Link: https://www.kaggle.com/models/magisty3/gendermodel2
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+
+3. Our Age Categorization: [Keras weights] [Private]
+   Link: https://www.kaggle.com/models/magisty3/agemodel3
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+
+4. Our Blood Segmentation: [Pytorch weights] [Private]
+   Link: https://www.kaggle.com/models/nardengerges/mask-rcnn-blood
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+
+5. Our Advanced Injury Segmentation: [Keras weights] [Private]
+   Link: https://www.kaggle.com/models/daliaabdelazim/injury_segmention_model
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+
+6. Our Burn Segmentation: [Keras weights] [Private]
+   Link: https://www.kaggle.com/models/youssefhany2222/burn-segmentation-model
+   License: Send an e-mail to meedwar23@gmail.com for access including format like this:
+   Name: [Your Name]
+   Reason: [Why u want this model?]
+   Username: [Kaggle Username]
+   
+- Free to use for **non-commercial research and educational purposes**.
+- Redistribution, modification, or commercial use is **not allowed** without prior permission.
+
