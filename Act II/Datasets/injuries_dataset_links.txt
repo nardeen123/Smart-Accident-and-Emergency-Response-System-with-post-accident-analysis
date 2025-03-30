@@ -1,0 +1,23 @@
+Injury Phase Dataset Links:
+
+1. Our Full Injury Detection Dataset: [injured-people-in-accident]
+   Link: https://www.kaggle.com/datasets/nardengerges/injured-people-in-accident
+   License: Free for research and educational purposes.
+
+2. For Gender and Age UTKFACE open-source dataset used: []
+   Link: https://susanqq.github.io/UTKFace
+
+3. Our Blood Segmentation Dataset: [blood-final]
+   Link: https://www.kaggle.com/datasets/nardengerges/blood-final
+   License: Free for research and educational purposes.
+
+4. Our Advanced Injury Segmentation Dataset: []
+   Link: 
+   License: Free for research and educational purposes.
+
+5. Our Burn Segmentation Dataset: []
+   Link: 
+   License: Free for research and educational purposes.
+   
+Don't forget to upvote if you find it really useful!
+Please ensure you follow proper citation and usage guidelines as per Kaggle's terms of use.
