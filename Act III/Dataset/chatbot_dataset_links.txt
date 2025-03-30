@@ -1,0 +1,9 @@
+First-Aid QA Chatbot Dataset Links:
+
+1. Our First-aid QA json file: [Question Answer dataset]
+   Link: https://www.kaggle.com/datasets/nardengerges/q-and-a-json
+   License: Free for research and educational purposes.
+
+   
+Don't forget to upvote if you find it really useful!
+Please ensure you follow proper citation and usage guidelines as per Kaggle's terms of use.
