@@ -56,7 +56,3 @@ Developed as a graduation project by a six-member team, with leadership responsi
 | Blood Detection          | Mask R-CNN                              | 65%              |
 | Age & Gender Classification | MobileNet, ResNet, EfficientNet      | 82%              |
 
-
-
-## 📄 License  
-This project is for academic purposes. Contact the authors for usage and extension requests.  
